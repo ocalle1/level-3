@@ -1,0 +1,14 @@
+body{
+  background-color: aqua;
+}
+
+.friend{
+ 
+  left: 500px;
+  font-size: 50px;
+  color: brown;
+}
+.pet{
+  font-style: italic;
+  color: brown;
+}
